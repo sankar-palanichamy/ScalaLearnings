@@ -1,0 +1,2 @@
+# ScalaLearnings
+Scala exercisez
